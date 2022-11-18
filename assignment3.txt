@@ -9,3 +9,6 @@ Created file to trigger Test followed by Prod job and the servers accordingly
 5th attempt to transfer files from Test to Prod Server	
 
 6th attempt to transfer files from Test to Prod Server
+
+7th attempt to transfer files from Test to Prod Server
+
